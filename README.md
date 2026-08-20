@@ -61,3 +61,6 @@ The major E-Commerce application modules were manually tested and the test execu
 **Ayushi Jain**
 
 Manual Testing QA Project
+
+## Jira Project
+https://ayushijain1420-1787119219637.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiNDdjNmNmNWQ1YmNlNGM3ZThjMzFhNjgwYjVkNjJmYzUiLCJwIjoiaiJ9
